@@ -1,0 +1,35 @@
+.container {
+    border-radius: 5px;
+    background-color: #f2f2f2;
+    padding: 20px;
+    width: 50%;
+    height: 680px;
+  }
+.btg {
+    background: linear-gradient(164deg, #9551f4, #9551f4 50%, #f2f2f2 50%, #f2f2f2);
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+}
+
+.img {
+    width: 100px;
+    height: 100px;
+    border-radius: 110%;
+    margin-top: 85px;
+}
+ #h1 {
+    display: flex;
+    justify-content: center;
+    margin-left: 50px;
+}
+#h3 {
+    color: #b7c1b7f2;
+    margin-left: 90px;
+}
+.box {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
